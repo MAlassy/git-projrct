@@ -1,2 +1,2 @@
-# git-projrct
+# git-project
 learn git
